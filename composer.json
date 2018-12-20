@@ -1,5 +1,5 @@
 {
-    "name": "Projetos2/websocket-server",
+    "name": "novosga/websocket-server",
     "license": "MIT",
     "type": "library",
     "autoload": {
